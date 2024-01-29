@@ -8,6 +8,7 @@ body {
 	margin-bottom: 20px;
 }
 button {
+	background-color: aqua;
 	font-size: 16px;
 	margin: 0 10px;
 	padding: 10px 20px;
